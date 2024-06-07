@@ -1,6 +1,6 @@
-- # Milvus 文档
+- # Milvus 中文文档
 
-  欢迎来到 Milvus 文档！
+  欢迎来到 Milvus 中文文档！
 
   该存储库包含了 [Milvus](https://github.com/milvus-io/milvus) 的技术文档，这是世界上最先进的开源向量数据库。访问 [Milvus.io](https://milvus.io/docs) 或 [Web 内容存储库](https://github.com/milvus-io/web-content) 获取完整的文档内容。
 
